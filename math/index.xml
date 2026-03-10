@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mathematics on Ahmed's Notes</title><link>https://ahmedbne.github.io/math/</link><description>Recent content in Mathematics on Ahmed's Notes</description><generator>Hugo -- 0.146.0</generator><language>en-us</language><lastBuildDate>Mon, 09 Mar 2026 00:00:00 +0100</lastBuildDate><atom:link href="https://ahmedbne.github.io/math/index.xml" rel="self" type="application/rss+xml"/><item><title>The Mathematics of Improbable Dominance</title><link>https://ahmedbne.github.io/math/tennismath/</link><pubDate>Mon, 09 Mar 2026 00:00:00 +0100</pubDate><guid>https://ahmedbne.github.io/math/tennismath/</guid><description>&lt;p>&lt;em>A Mathematical Essay&lt;/em>&lt;/p>
+&lt;p>&lt;strong>How a 4% statistical edge becomes total supremacy, and why tennis is the most mathematically exquisite game ever devised&lt;/strong>&lt;/p>
+&lt;p>&lt;em>Markov Chains · Probability Amplification · Hierarchical Scoring Theory · Stochastic Processes&lt;/em>&lt;/p>
+&lt;hr>
+&lt;h2 id="contents">Contents&lt;/h2>
+&lt;ol>
+&lt;li>&lt;a href="#s1">The Model and Foundational Definitions&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s2">The Deuce Mechanism — First Amplification&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s3">Game Win Probability $G(p)$ — Full Derivation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s4">The Derivative $G&amp;rsquo;(\tfrac{1}{2})$ — Quantifying Amplification&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s5">Set Win Probability $S(p)$ — Second Tier&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s6">Match Win Probability $M(p)$ — The Full Cascade&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s7">The Cascade of Amplification — Tables and Graphs&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s8">The Serve Asymmetry and the Necessity of &amp;ldquo;Win by Two&amp;rdquo;&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s9">The Main Theorem — Formal Statement and Complete Proof&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s10">The Markov Chain Framework&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s11">Federer, Formally Verified&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#s12">The Epistemic Coda — Mathematics of Losing Gracefully&lt;/a>&lt;/li>
+&lt;/ol>
+&lt;hr>
+&lt;p>Roger Federer won approximately 80% of his professional tennis matches over a career spanning two decades. If you were there to watch him play, you would not find this surprising: his tennis appeared inevitable, governed by some law of physics that simply would not allow a lesser player to prevail. And yet there is a fact about his career that should, upon reflection, be deeply disturbing. Federer won only around 54% of all individual points he ever played. He lost 46 out of every 100. Nearly half. And this was one of the greatest sportsmen in human history.&lt;/p></description></item><item><title>The Cardinality of the Continuum Equals the Cardinality of the Power Set of the Natural Numbers</title><link>https://ahmedbne.github.io/math/continuum/</link><pubDate>Sat, 10 Jan 2026 16:48:08 +0100</pubDate><guid>https://ahmedbne.github.io/math/continuum/</guid><description>&lt;p>We prove that the cardinality of the real numbers equals $2^{\aleph_0}$, the cardinality of the power set of the natural numbers. This proof uses only standard results from set theory and analysis.&lt;/p>
+&lt;h2 id="preliminary-definitions-and-results">Preliminary Definitions and Results&lt;/h2>
+&lt;p>&lt;strong>Definition 1 (Cardinality).&lt;/strong> Two sets $A$ and $B$ have the same &lt;em>cardinality&lt;/em>, written $|A| = |B|$, if there exists a bijection $f: A \to B$.&lt;/p>
+&lt;p>&lt;strong>Definition 2 (Cardinal Inequality).&lt;/strong> We write $|A| \leq |B|$ if there exists an injection from $A$ to $B$.&lt;/p></description></item></channel></rss>
